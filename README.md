@@ -27,8 +27,7 @@ meteor add sanch941:meteor-esbuild-minifier
 
 ## Attention
 
-This package is copy of standard-minifier-js, i just changed a few lines of code and call esbuild to minify. So it's safe to use and tested.
-Let me know if you have further questions or need additional clarification!
+This package is a modified version of the standard-minifier-js. I've altered a few lines of code and integrated esbuild for minification purposes. So it's safe to use and tested. Let me know if you have further questions or need additional clarification!
 
 
 
