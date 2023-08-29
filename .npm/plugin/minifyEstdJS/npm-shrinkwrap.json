@@ -1,0 +1,25 @@
+{
+  "lockfileVersion": 1,
+  "dependencies": {
+    "@babel/runtime": {
+      "version": "7.18.9",
+      "resolved": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.18.9.tgz",
+      "integrity": "sha512-lkqXDcvlFT5rvEjiu6+QYO+1GXrEHRo2LOtS7E4GtX5ESIZOgepqsZBVIj6Pv+a6zqsya9VCgiK1KAK4BvJDAw=="
+    },
+    "@esbuild/linux-x64": {
+      "version": "0.19.2",
+      "resolved": "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.19.2.tgz",
+      "integrity": "sha512-oxzHTEv6VPm3XXNaHPyUTTte+3wGv7qVQtqaZCrgstI16gCuhNOtBXLEBkBREP57YTd68P0VgDgG73jSD8bwXQ=="
+    },
+    "esbuild": {
+      "version": "0.19.2",
+      "resolved": "https://registry.npmjs.org/esbuild/-/esbuild-0.19.2.tgz",
+      "integrity": "sha512-G6hPax8UbFakEj3hWO0Vs52LQ8k3lnBhxZWomUJDxfz3rZTLqF5k/FCzuNdLx2RbpBiQQF9H9onlDDH1lZsnjg=="
+    },
+    "regenerator-runtime": {
+      "version": "0.13.11",
+      "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.11.tgz",
+      "integrity": "sha512-kY1AZVr2Ra+t+piVaJ4gxaFaReZVH40AKNo7UCX6W+dEwBo/2oZJzqfuN1qLq1oL45o56cPaTXELwrTh8Fpggg=="
+    }
+  }
+}
