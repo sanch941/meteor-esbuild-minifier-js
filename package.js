@@ -1,6 +1,6 @@
 Package.describe({
   name: 'sanch941:esbuild-minifier-js',
-  version: '1.0.0',
+  version: '1.0.3',
   summary: 'Fast esbuild minifier',
   documentation: 'README.md',
 });

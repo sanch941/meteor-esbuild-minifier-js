@@ -5,7 +5,7 @@ Fast JavaScript minifier for Meteor apps
 Features:
 
 - Improves build time (30-40%)
-- Switches minifier plugin from Terser (Node.js) to Esbuild (Rust)
+- Switches minifier plugin from Terser (Node.js) to Esbuild (Go)
 
 Motivation:
 

@@ -13,4 +13,4 @@ modules@0.19.0
 modules-runtime@0.13.1
 promise@0.12.2
 react-fast-refresh@0.2.7
-sanch941:esbuild-minifier-js@1.0.0
+sanch941:esbuild-minifier-js@1.0.2
